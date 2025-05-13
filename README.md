@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a physicist currently at the University of Pittsburgh in the Particle Physics and Cosmology group.
+
 <!--
 **mattlow/mattlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
