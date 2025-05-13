@@ -1,6 +1,6 @@
-# Hi there 👋
+### Hi there 👋
 
-- I'm a physicist working at the University of Pittsburgh in the [Particle Physics and Cosmology group](https://www.pittpacc.pitt.edu/).
+- I'm a physicist working at the University of Pittsburgh in the [Particle Physics and Cosmology group](https://www.pittpacc.pitt.edu/).  My previous institutions include the [Institute for Advanced Study](https://www.ias.edu/sns) and the [University of Chicago](https://physics.uchicago.edu/).
 
 - I have over [10 years of research experience](https://inspirehep.net/authors/1061156) in a variety of fields including: collider physics, cosmology, model building, and quantum information theory.
 
