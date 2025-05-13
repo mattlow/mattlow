@@ -10,6 +10,11 @@
 
 - Addressing tensions between cosmological datasets, the most well-known tensions being the Hubble tension and the S8 tension, with the [twin Higgs model](https://arxiv.org/abs/2110.04317) and with the [Nnaturalness model](https://arxiv.org/abs/2410.19224).
 
+### Other Projects
+
+- In 2018 [I analyzed workout results](https://crossfitnumbers.wordpress.com/2018/04/01/2018crossfitopen1/) from the [2018 Crossfit Open](https://games.crossfit.com/open/overview) with an eye towards correlations between physical characteristics of competitors whether those were correlated with above-average results in workouts with certain types of exercises.
+
+- In 2016 [I wrote a page that dynamically generates fake (but surprisingly realistic) paper titles using a context-free grammar](https://snarxiv.org/hep-750gev/).
 <!--
 **mattlow/mattlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
