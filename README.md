@@ -6,7 +6,9 @@
 
 ### Research Interests
 
-- Using quantum information science and quantum computing to study quantum correlations between particles produced at the Large Hadron Collider including [quantum entanglement](https://arxiv.org/abs/2310.17696), [Bell nonlocality](https://arxiv.org/abs/2407.01672), and [quantum discord[(https://arxiv.org/abs/2412.21158).  My work includes using tools from quantum information for quantifying the [distance between quantum states](https://arxiv.org/abs/2501.03311) and using [transformer networks to solve an underconstrained set of equations for neutrino momenta](https://arxiv.org/abs/2504.01496).
+- Using quantum information science and quantum computing to study quantum correlations between particles produced at the Large Hadron Collider including [quantum entanglement](https://arxiv.org/abs/2310.17696), [Bell nonlocality](https://arxiv.org/abs/2407.01672), and [quantum discord](https://arxiv.org/abs/2412.21158).  My work includes using tools from quantum information for quantifying the [distance between quantum states](https://arxiv.org/abs/2501.03311) and using [transformer networks to solve an underconstrained set of equations for neutrino momenta](https://arxiv.org/abs/2504.01496).
+
+- Addressing tensions between cosmological datasets, the most well-known tensions being the Hubble tension and the S8 tension, with the [twin Higgs model](https://arxiv.org/abs/2110.04317) and with the [Nnaturalness model](https://arxiv.org/abs/2410.19224).
 
 <!--
 **mattlow/mattlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
