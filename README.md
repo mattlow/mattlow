@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-- I'm a physicist working at the University of Pittsburgh in the Particle Physics and Cosmology group.
+- I'm a physicist working at the University of Pittsburgh in the [Particle Physics and Cosmology group](https://www.pittpacc.pitt.edu/).
 
-- I have over 10 years of research experience in a variety of fields including: collider physics, cosmology, model building, and quantum information theory.
+- I have over [10 years of research experience](https://inspirehep.net/authors/1061156) in a variety of fields including: collider physics, cosmology, model building, and quantum information theory.
 
 <!--
 **mattlow/mattlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
