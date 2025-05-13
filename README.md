@@ -14,6 +14,7 @@
 
 - In 2018 [I analyzed workout results](https://crossfitnumbers.wordpress.com/2018/04/01/2018crossfitopen1/) from the [2018 Crossfit Open](https://games.crossfit.com/open/overview) with an eye towards correlations between physical characteristics of competitors whether those were correlated with above-average results in workouts with certain types of exercises.
 
+![alt](https://github.com/mattlow/mattlow/blob/main/preview_image_2018open.png "title")
 
 - In 2016 [I wrote a page that dynamically generates fake (but surprisingly realistic) paper titles](https://snarxiv.org/hep-750gev/) using a context-free grammar.
 <!--
