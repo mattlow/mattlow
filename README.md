@@ -4,6 +4,10 @@
 
 - I have over [10 years of research experience](https://inspirehep.net/authors/1061156) in a variety of fields including: collider physics, cosmology, model building, and quantum information theory.
 
+### Research Interests
+
+- Using quantum information science and quantum computing to study quantum correlations between particles produced at the Large Hadron Collider including [quantum entanglement](https://arxiv.org/abs/2310.17696), [Bell nonlocality](https://arxiv.org/abs/2407.01672), and [quantum discord[(https://arxiv.org/abs/2412.21158).  My work includes using tools from quantum information for quantifying the [distance between quantum states](https://arxiv.org/abs/2501.03311) and using [transformer networks to solve an underconstrained set of equations for neutrino momenta](https://arxiv.org/abs/2504.01496).
+
 <!--
 **mattlow/mattlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
